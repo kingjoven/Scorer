@@ -1,0 +1,172 @@
+body{
+  margin: auto;
+  color: white;
+  cursor: pointer;
+}
+.container {
+  background: #1c2945;
+  width: 600px;
+  height: 400px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+.home {
+position: absolute;
+width: 149px;
+height: 36px;
+left: 85px;
+top: 68px;
+
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 36px;
+/* identical to box height, or 90% */
+
+text-align: center;
+
+color: #EEEEEE;
+}
+.guest {
+position: absolute;
+width: 149px;
+height: 36px;
+left: 340px;
+top: 68px;
+
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 36px;
+/* identical to box height, or 90% */
+
+text-align: center;
+
+color: #EEEEEE;
+
+}
+.box1 {
+position: absolute;
+width: 155px;
+height: 120px;
+left: 82px;
+top: 165px;
+
+background: #080001;
+border-radius: 5px;
+}
+.box2 {
+position: absolute;
+width: 155px;
+height: 120px;
+left: 337px;
+top: 165px;
+
+background: #080001;
+border-radius: 5px;
+}
+.num1 {
+margin: 0;
+padding: 5px;
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+
+text-align: center;
+
+color: #F94F6D;
+}
+.num2 {
+  margin: 0;
+  padding: 5px;
+  font-family: 'Cursed Timer ULiL';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 90px;
+  
+  text-align: center;
+  
+  color: #F94F6D;
+  }
+.square {
+box-sizing: border-box;
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 82px;
+top: 320px;
+
+border: 2px solid #9AABD8;
+border-radius: 5px;
+}
+.square1 {
+  box-sizing: border-box;
+  
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  left: 136px;
+  top: 320px;
+  
+  border: 2px solid #9AABD8;
+  border-radius: 5px;
+  }
+  .square2 {
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 192px;
+    top: 320px;
+    
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    }
+h1 {
+  margin: auto;
+  padding: auto;
+
+}
+ .square3 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  left: 337px;
+  top: 320px;
+  
+  border: 2px solid #9AABD8;
+  border-radius: 5px;
+}
+.square4 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  left: 391px;
+  top: 320px;
+  
+  border: 2px solid #9AABD8;
+  border-radius: 5px;
+}
+.square5 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  left: 447px;
+  top: 320px;
+
+  border: 2px solid #9AABD8;
+  border-radius: 5px;
+}
